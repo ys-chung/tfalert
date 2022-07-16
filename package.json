@@ -4,5 +4,8 @@
   "main": "src/index.js",
   "devDependencies": {
     "bun-types": "^0.0.83"
+  },
+  "dependencies": {
+    "grammy": "^1.9.1"
   }
 }
