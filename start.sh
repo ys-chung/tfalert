@@ -1,1 +1,0 @@
-deno run --allow-env --allow-net=testflight.apple.com,api.telegram.org --allow-read=.env,.env.defaults mod.ts
